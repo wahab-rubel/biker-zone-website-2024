@@ -334,6 +334,7 @@ span{
  }
  .foot-section{
   flex-direction: column;
+  height: auto;
  }
  .foot-privacy{
   flex-direction: column;
